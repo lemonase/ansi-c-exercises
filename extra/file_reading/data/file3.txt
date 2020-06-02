@@ -1,0 +1,3 @@
+file three
+the last file
+for the file test!
