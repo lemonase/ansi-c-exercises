@@ -27,4 +27,6 @@ int main(int argc, char **argv) {
 
     // free memory
     free(line_buffer);
+	fclose(fp);
+	exit(EXIT_SUCCESS);
 }
